@@ -12,3 +12,5 @@ Link : <a href="https://github.com/isa-vit/ChromeExtension/blob/main/CONTRIBUTIN
 ### Extension UI
 
 Link : <a href="https://github.com/isa-vit/ChromeExtension/blob/main/Extension%20UI.md">UI Reference</a>
+
+![image](https://user-images.githubusercontent.com/81004813/162601442-465fb797-47b1-46b3-b85e-4795d22347fe.png)
